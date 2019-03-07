@@ -1,0 +1,8 @@
+檢視 - team expore(Vs)
+暫存(寫為啥) 在
+看紀錄
+
+git add -a 暫存
+skip不要用
+
+02009
